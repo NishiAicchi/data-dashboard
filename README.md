@@ -9,7 +9,7 @@
 
 ## Flujo de trabajo
 
-1. Es importante para nuestro cliente poder optimizar el tiempo de procesamiento de data, sobre todo si maneja importante data para esta. Hemos desarrollado un MVP: Data Dashboard para las TMs de Laboratoria, quienes tienen la ardua labor de monitorear la información de las alumnas y egresadas, ademas de los porcentajes de crecimiento de cada una y entre sedes.
+1. Es importante para nuestro cliente poder optimizar el tiempo de procesamiento de data, sobre todo si maneja enormes cantidades de información. Para eso hemos desarrollado un MVP: Data Dashboard para las TMs de Laboratoria, quienes tienen la ardua labor de monitorear la data de las alumnas y egresadas, ademas de los porcentajes de crecimiento de cada una y entre sedes.
 
 **Estos fueron nuestros requerimientos:**
 + El total de estudiantes presentes por sede y generación.
